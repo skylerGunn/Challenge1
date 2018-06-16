@@ -37,6 +37,6 @@ return 0;
 
 **Tick's are bad because**
 
-*They can carry lyme disease
-*They are a pain to get rid of
-*Attach themselves to all kinds of animals
++ They can carry lyme disease
++ They are a pain to get rid of
++ Attach themselves to all kinds of animals
