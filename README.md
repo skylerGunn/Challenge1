@@ -16,7 +16,7 @@ return 0;
 
 [link to second file](https://github.com/skylerGunn/Challenge1/blob/master/file1.md)
 
-![alt text](https://www.botany.org/Carnivorous_Plants/images/Dionaea_muscipula-WD-5.jpg "fly trap")
+![alt text](https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2017/05/venus_flytrap_flickr_-_mark_freeth.jpg?itok=JnlpiKtI&fc=50,50 "fly trap")
 
 
 | Primary color        | Secondary color           | other  |
