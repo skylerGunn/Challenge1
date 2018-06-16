@@ -40,3 +40,5 @@ return 0;
 + They can carry lyme disease
 + They are a pain to get rid of
 + Attach themselves to all kinds of animals
+
+![alt text](https://github.com/skylerGunn/Challenge1/blob/master/81pU9OfsejL._SY355_.jpg "venus fly trap")
